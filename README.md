@@ -4,7 +4,7 @@
 
 [![amarchal's 42 stats](https://badge42.vercel.app/api/v2/cl8oe01n000110fl848urwao1/stats?cursusId=21&coalitionId=51)](https://github.com/JaeSeoKim/badge42)
 
-### 🔭 I'm currently working on 42's project **ft_irc**
+### 🔭 I'm currently working on : 42's project **ft_irc**
 
 ---
 
@@ -21,6 +21,7 @@
 
 ### 📫 Contact :
 aleximarchal@hotmail.com
+
 www.linkedin.com/in/a-marchal-dev
 
 

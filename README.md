@@ -2,7 +2,7 @@
 
 ---
 
-### 🔭 I'm currently working on : 42's project **ft_irc**
+### 🔭 I'm currently working on : 42's project **Inception**
 
 ---
 

@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-(https://visitor-badge.laobi.icu/badge?page_id=MarchAle.MarchAle)
+![](https://visitor-badge.laobi.icu/badge?page_id=MarchAle.MarchAle)

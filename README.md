@@ -2,7 +2,7 @@
 
 ---
 
-### 🔭 I'm currently working on : 42's project **ft_containers**
+### 🔭 I'm currently looking for an internship as a software developer
 
 ---
 
